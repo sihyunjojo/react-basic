@@ -1,3 +1,24 @@
+# 공부 내용
+
+## 4.0(introduction)
+
+    react app 설정 및 파일 만들기
+
+    create-react-app을 이용하면 auto-reload를 사용할 수 있다. 
+    
+
+
+
+
+
+
+
+
+
+
+
+# Basic
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
