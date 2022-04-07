@@ -1,3 +1,5 @@
+# 하루에 조금씩 꾸준히 하자!!
+
 # 공부 내용
 
 ## 4.0(introduction)
@@ -7,7 +9,7 @@
     create-react-app을 이용하면 auto-reload를 사용할 수 있다. 
     
 
-
+## 4.1()
 
 
 
