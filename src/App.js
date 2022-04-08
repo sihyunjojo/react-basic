@@ -1,9 +1,19 @@
+
+import {useState, useEffect} from "react";
+
 function App() {
-  return (
-    <div>
-      <h1>welcome!! sihyun</h1>
-    </div>
-  );
+    const [counter,setValue] = useState(0);
+    const onClick = () => setValue((prev) => prev + 1);
+    console.log("i run all the time");
+    useEffect(() => {
+        console.log("Call The API....");
+    },[]);
+    return(
+        <div>
+            <h1>{counter}</h1>
+            <button onClick = {onClick}>click me</button>
+       </div>
+    );
 }
 
 export default App;
