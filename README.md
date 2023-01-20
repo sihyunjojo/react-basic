@@ -3,6 +3,7 @@
 # 공부 내용
 
 ## 4.0(introduction)
+    nodejs를 이용하는거다.
 
     react app 설정 및 파일 만들기
 
